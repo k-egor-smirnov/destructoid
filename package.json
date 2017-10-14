@@ -1,0 +1,14 @@
+{
+  "name": "madnessbot2",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/node-telegram-bot-api": "^0.28.1",
+    "node-telegram-bot-api": "^0.28.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.34"
+  },
+  "scripts": {
+    "build": "tsc -p ./src"
+  }
+}
